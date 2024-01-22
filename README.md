@@ -48,11 +48,19 @@ https://www.mongodb.com/try/download/community   // 下载 5.024 zip版本 进�
      mongod   // 启动MongoDB服务端
     ```
 
+    <img src="C:\Users\香瓜茄\Desktop\项目练习\mockserver\public\images\1_p.png" style="zoom: 67%;" />
+    
     
 
+  <img src="C:\Users\香瓜茄\Desktop\项目练习\mockserver\public\images\2_p.png" style="zoom:67%;" />
   
+  ![](C:\Users\香瓜茄\Desktop\项目练习\mockserver\public\images\3_p.png)
 
-  ![image-20240122191359275](C:\Users\香瓜茄\AppData\Roaming\Typora\typora-user-images\image-20240122191359275.png)
+<img src="C:\Users\香瓜茄\Desktop\项目练习\mockserver\public\images\4_p.png" style="zoom:67%;" />
+
+
+
+<img src="C:\Users\香瓜茄\Desktop\项目练习\mockserver\public\images\5_p.png" style="zoom:67%;" />
 
 ###  可以选择安装免费的可视化服务端软件
 
